@@ -1,20 +1,21 @@
 
-📊 Customer Churn Prediction Using Machine Learning
-📌 Project Overview
+Customer Churn Prediction Using Machine Learning
+ Project Overview
 
 This project applies machine learning techniques to predict customer churn using real-world telecom data. The goal is to identify customers at risk of leaving and understand key factors influencing churn behavior.
 
-🎯 Objectives
+ Objectives
 Analyze customer behavior using exploratory data analysis (EDA)
 Identify key factors affecting customer churn
 Build predictive models to classify churn customers
 Compare model performance and interpret results
 Provide business insights for customer retention strategies
-📂 Dataset
+
+Dataset
 
 The dataset used in this project is the Telco Customer Churn dataset from:
 
-👉 Kaggle
+Kaggle
 Dataset includes:
 
 Customer demographics (Age, State, etc.)
@@ -22,7 +23,8 @@ Service usage details
 Satisfaction Score
 Customer Lifetime Value (CLTV)
 Churn Label (Target variable)
-🛠️ Tools & Libraries
+
+Tools & Libraries
 Python
 Pandas
 NumPy
@@ -33,12 +35,12 @@ Google Colab
 
 
 
-# 📘 How to Open and Run the Google Colab Notebook
+# How to Open and Run the Google Colab Notebook
 
 ## **1. Open the Notebook**
 
 1. Click the provided Colab link:
-   👉 [https://colab.research.google.com/drive/1oQzQdJCyO7KnbKSXxFJ3LX9RWkGE5RWx](https://colab.research.google.com/drive/1oQzQdJCyO7KnbKSXxFJ3LX9RWkGE5RWx)
+    [https://colab.research.google.com/drive/1oQzQdJCyO7KnbKSXxFJ3LX9RWkGE5RWx](https://colab.research.google.com/drive/1oQzQdJCyO7KnbKSXxFJ3LX9RWkGE5RWx)
 2. The notebook will open in Google Colab (a cloud-based Python environment).
 
 ---
@@ -115,7 +117,7 @@ Do not skip steps, as later cells depend on earlier ones.
 
 ## **6. View Results**
 
-### 📊 EDA Results
+### EDA Results
 
 You will see:
 
@@ -127,7 +129,7 @@ These help you understand patterns in the dataset.
 
 ---
 
-### 🤖 Model Results
+### Model Results
 
 After training models, you will see:
 
@@ -143,7 +145,7 @@ print(classification_report(y_test, y_pred))
 
 ---
 
-### 📈 Visual Outputs
+### Visual Outputs
 
 Graphs such as:
 
@@ -178,7 +180,7 @@ This executes the entire pipeline from start to finish.
 
 ---
 
-# 📌 Summary
+# Summary
 
 By following these steps, you will:
 
